@@ -49,8 +49,8 @@ The grid values are flattened into features before entering the 1D CNN. See [`tr
 Clone the default branch:
 
 ```bash
-git clone --branch main https://github.com/Will1202/Typhoon-Trajectory-Prediction-Based-On-CNN-LSTM-model-main.git
-cd Typhoon-Trajectory-Prediction-Based-On-CNN-LSTM-model-main
+git clone --branch main https://github.com/Will1202/Typhoon-Trajectory-Prediction-CNN-LSTM.git
+cd Typhoon-Trajectory-Prediction-CNN-LSTM
 ```
 
 The recorded environment uses **Python 3.10** and **PyTorch 2.1**. The `requirements.txt` file is a Conda environment export; use the [environment setup guide](docs/RUN_GUIDE.md#environment-setup) to select and install the packages for your platform.

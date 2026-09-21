@@ -50,8 +50,8 @@ flowchart LR
 从 `main` 分支获取项目：
 
 ```bash
-git clone --branch main https://github.com/Will1202/Typhoon-Trajectory-Prediction-Based-On-CNN-LSTM-model-main.git
-cd Typhoon-Trajectory-Prediction-Based-On-CNN-LSTM-model-main
+git clone --branch main https://github.com/Will1202/Typhoon-Trajectory-Prediction-CNN-LSTM.git
+cd Typhoon-Trajectory-Prediction-CNN-LSTM
 ```
 
 项目记录的环境使用 **Python 3.10** 和 **PyTorch 2.1**。`requirements.txt` 为 Conda 环境导出文件，请按照[环境配置说明](docs/RUN_GUIDE.md#environment-setup)选择适合当前平台的软件包进行安装。

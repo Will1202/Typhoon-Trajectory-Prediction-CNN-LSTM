@@ -4,7 +4,7 @@
 
 This guide describes the original scripts and their assumptions. The documentation refresh preserves the model code, datasets, checkpoints, and example figures. The commands below have been checked against the source; training and inference have not been run for this refresh.
 
-The original Git submodule reference (gitlink), `.idea/` metadata, and `EAR5/` directory are also preserved.
+The original `.idea/` metadata and `EAR5/` directory are preserved. The unused nested Git reference has been removed; the project files are available directly at the repository root.
 
 ## Environment Setup
 

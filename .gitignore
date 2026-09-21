@@ -1,0 +1,22 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+.cdsapirc
+
+# Editor and operating-system files (already tracked files stay tracked)
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

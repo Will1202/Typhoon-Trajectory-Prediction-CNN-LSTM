@@ -1,0 +1,2101 @@
+{
+    "Alice": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1978",
+            "1979"
+        ],
+        "month": [
+            "01",
+            "12"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            19,
+            130,
+            0,
+            176
+        ]
+    },
+    "Axel": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1992"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            16,
+            138,
+            3,
+            180
+        ]
+    },
+    "BOLAVEN": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2017",
+            "2018"
+        ],
+        "month": [
+            "01",
+            "12"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            14,
+            107,
+            6,
+            137
+        ]
+    },
+    "Carmen": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1949"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            19,
+            115,
+            3,
+            141
+        ]
+    },
+    "Charlotte": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1952"
+        ],
+        "month": [
+            "06"
+        ],
+        "day": [
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            26,
+            109,
+            12,
+            119
+        ]
+    },
+    "Chuck": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1995"
+        ],
+        "month": [
+            "04",
+            "05"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            14,
+            153,
+            3,
+            168
+        ]
+    },
+    "Cimaron": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2001"
+        ],
+        "month": [
+            "05"
+        ],
+        "day": [
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            29,
+            117,
+            9,
+            136
+        ]
+    },
+    "Damrey": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2000"
+        ],
+        "month": [
+            "05"
+        ],
+        "day": [
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            30,
+            129,
+            7,
+            151
+        ]
+    },
+    "Dujuan": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2021"
+        ],
+        "month": [
+            "02"
+        ],
+        "day": [
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            16,
+            120,
+            4,
+            138
+        ]
+    },
+    "Fabian": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1985"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            15,
+            128,
+            6,
+            141
+        ]
+    },
+    "Fran": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1962"
+        ],
+        "month": [
+            "02"
+        ],
+        "day": [
+            "02",
+            "03",
+            "04",
+            "05"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            11,
+            126,
+            3,
+            132
+        ]
+    },
+    "Freda": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1981"
+        ],
+        "month": [
+            "03"
+        ],
+        "day": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            33,
+            159,
+            4,
+            183
+        ]
+    },
+    "Georgia": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1951"
+        ],
+        "month": [
+            "03"
+        ],
+        "day": [
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            13,
+            153,
+            3,
+            174
+        ]
+    },
+    "HANNAH": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1997"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "20",
+            "21",
+            "22"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            13,
+            130,
+            6,
+            138
+        ]
+    },
+    "IRIS": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1999"
+        ],
+        "month": [
+            "02"
+        ],
+        "day": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            15,
+            126,
+            9,
+            134
+        ]
+    },
+    "Irma": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1953",
+            "1993"
+        ],
+        "month": [
+            "02",
+            "03"
+        ],
+        "day": [
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            20,
+            120,
+            2,
+            171
+        ]
+    },
+    "Ivy": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1960"
+        ],
+        "month": [
+            "01",
+            "02"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            18,
+            125,
+            4,
+            149
+        ]
+    },
+    "Judy": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1986"
+        ],
+        "month": [
+            "01",
+            "02"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            20,
+            128,
+            0,
+            154
+        ]
+    },
+    "Kathy": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1976"
+        ],
+        "month": [
+            "01",
+            "02"
+        ],
+        "day": [
+            "01",
+            "02",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            24,
+            136,
+            3,
+            162
+        ]
+    },
+    "Kit": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1972"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            18,
+            119,
+            7,
+            144
+        ]
+    },
+    "Kong-rey": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2007"
+        ],
+        "month": [
+            "03",
+            "04"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            29,
+            142,
+            3,
+            162
+        ]
+    },
+    "Koryn": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1990"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            31,
+            143,
+            5,
+            162
+        ]
+    },
+    "Kujira": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2009"
+        ],
+        "month": [
+            "05"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            36,
+            122,
+            10,
+            152
+        ]
+    },
+    "Kulap": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2005"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            20,
+            143,
+            3,
+            157
+        ]
+    },
+    "Lingling": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2014"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            11,
+            125,
+            4,
+            130
+        ]
+    },
+    "Lola": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1975"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            18,
+            109,
+            4,
+            139
+        ]
+    },
+    "Malakas": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2022"
+        ],
+        "month": [
+            "04"
+        ],
+        "day": [
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            55,
+            133,
+            1,
+            186
+        ]
+    },
+    "Mamie": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1982"
+        ],
+        "month": [
+            "03"
+        ],
+        "day": [
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            14,
+            107,
+            5,
+            154
+        ]
+    },
+    "Mekkhala": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2015"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            18,
+            120,
+            6,
+            144
+        ]
+    },
+    "NICHOLE": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1998"
+        ],
+        "month": [
+            "07"
+        ],
+        "day": [
+            "07",
+            "08",
+            "09",
+            "10"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            26,
+            116,
+            18,
+            122
+        ]
+    },
+    "Nadine": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1978"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            24,
+            158,
+            3,
+            179
+        ]
+    },
+    "Nancy": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1970"
+        ],
+        "month": [
+            "02"
+        ],
+        "day": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            25,
+            121,
+            5,
+            153
+        ]
+    },
+    "Omais": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2010"
+        ],
+        "month": [
+            "03"
+        ],
+        "day": [
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            19,
+            129,
+            5,
+            144
+        ]
+    },
+    "Ophelia": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1958"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            19,
+            130,
+            2,
+            172
+        ]
+    },
+    "Orchid": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1987"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            13,
+            129,
+            5,
+            151
+        ]
+    },
+    "Owen": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1994"
+        ],
+        "month": [
+            "03",
+            "04"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            20,
+            113,
+            8,
+            136
+        ]
+    },
+    "PABUK": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2018",
+            "2019"
+        ],
+        "month": [
+            "01",
+            "12"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "30",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            10,
+            96,
+            4,
+            114
+        ]
+    },
+    "Phyllis": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1969"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            16,
+            125,
+            5,
+            179
+        ]
+    },
+    "Rita": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1961"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            17,
+            129,
+            5,
+            145
+        ]
+    },
+    "Roy": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1988"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            17,
+            112,
+            4,
+            175
+        ]
+    },
+    "Ruby": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1959"
+        ],
+        "month": [
+            "02",
+            "03"
+        ],
+        "day": [
+            "01",
+            "26",
+            "27",
+            "28"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            10,
+            127,
+            4,
+            142
+        ]
+    },
+    "Sarah": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1971",
+            "1983"
+        ],
+        "month": [
+            "01",
+            "06"
+        ],
+        "day": [
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            26,
+            103,
+            6,
+            179
+        ]
+    },
+    "Sharon": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1991"
+        ],
+        "month": [
+            "03"
+        ],
+        "day": [
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            13,
+            120,
+            2,
+            154
+        ]
+    },
+    "Sonamu": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2012",
+            "2013"
+        ],
+        "month": [
+            "01",
+            "12"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            10,
+            106,
+            2,
+            142
+        ]
+    },
+    "Tapah": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2002"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "09",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            21,
+            120,
+            7,
+            136
+        ]
+    },
+    "Tess": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1964"
+        ],
+        "month": [
+            "05"
+        ],
+        "day": [
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            39,
+            127,
+            9,
+            176
+        ]
+    },
+    "Vernon": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1984"
+        ],
+        "month": [
+            "06"
+        ],
+        "day": [
+            "07",
+            "08",
+            "09",
+            "10"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            19,
+            102,
+            10,
+            115
+        ]
+    },
+    "Violet": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1954",
+            "1955"
+        ],
+        "month": [
+            "01",
+            "12"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "31"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            12,
+            113,
+            4,
+            142
+        ]
+    },
+    "Vongfong": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2020"
+        ],
+        "month": [
+            "05"
+        ],
+        "day": [
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            24,
+            117,
+            4,
+            134
+        ]
+    },
+    "Wanda": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1974"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            17,
+            128,
+            6,
+            149
+        ]
+    },
+    "Wilda": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1973"
+        ],
+        "month": [
+            "06",
+            "07"
+        ],
+        "day": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            31,
+            110,
+            8,
+            129
+        ]
+    },
+    "Winona": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "1989"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "17",
+            "18",
+            "19",
+            "20"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            18,
+            125,
+            11,
+            158
+        ]
+    },
+    "Yanyan": {
+        "product_type": [
+            "reanalysis"
+        ],
+        "variable": [
+            "sea_surface_temperature",
+            "surface_pressure"
+        ],
+        "year": [
+            "2003"
+        ],
+        "month": [
+            "01"
+        ],
+        "day": [
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20"
+        ],
+        "time": [
+            "04:00",
+            "10:00",
+            "16:00",
+            "22:00"
+        ],
+        "data_format": "grib",
+        "download_format": "unarchived",
+        "area": [
+            21,
+            144,
+            4,
+            165
+        ]
+    }
+}

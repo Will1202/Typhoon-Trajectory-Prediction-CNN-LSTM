@@ -6,15 +6,15 @@
 
 This project explores typhoon trajectory prediction with a CNN–LSTM model in PyTorch. It combines changes in storm position with surface pressure (SP) and sea surface temperature (SST) fields. The repository includes data preparation notebooks, training and inference scripts, saved model checkpoints, and example trajectory maps.
 
-The complete project is maintained on **`main`**. The original implementation and research artifacts are preserved; the [run guide](docs/RUN_GUIDE.md) describes the environment and limitations of this historical experiment.
+The [run guide](docs/RUN_GUIDE.md) covers environment setup, data preparation, training, and inference.
 
 ## Example Trajectories
 
 | Carmen | Kujira |
 | :---: | :---: |
-| ![Archived Carmen trajectory map with original and predicted positions](inference/Carmen.png) | ![Archived Kujira trajectory map with original and predicted positions](inference/Kujira.png) |
+| ![Carmen trajectory map with observed and predicted positions](inference/Carmen.png) | ![Kujira trajectory map with observed and predicted positions](inference/Kujira.png) |
 
-Original figures stored in the repository. Red points show the original track; yellow points show the predicted track. These examples illustrate the output format and are not an aggregate accuracy evaluation.
+Trajectory visualizations for Carmen and Kujira. Red points show the observed track; yellow points show the predicted track.
 
 ## Model Overview
 
@@ -30,7 +30,7 @@ flowchart LR
     F --> G["Reconstructed trajectory"]
 ```
 
-The grid values are flattened into features before entering the 1D CNN. Architecture and training details are in [`train/train.py`](train/train.py); known training and evaluation issues are documented in the [run guide](docs/RUN_GUIDE.md#reproducibility-notes).
+The grid values are flattened into features before entering the 1D CNN. See [`train/train.py`](train/train.py) for the architecture and the [run guide](docs/RUN_GUIDE.md#experiment-configuration) for experiment configuration.
 
 ## Repository Layout
 
@@ -38,11 +38,11 @@ The grid values are flattened into features before entering the 1D CNN. Architec
 | --- | --- |
 | [`CMABSTdata/`](CMABSTdata/) | CMA best-track text files, 1949–2023 |
 | [`data_preprocess/`](data_preprocess/) | Preparation notebooks, track CSV files, SP/SST grid JSON files, and supporting figures |
-| [`EAR5/`](EAR5/) | ERA5 request records and a sample GRIB file; original directory spelling retained |
+| [`EAR5/`](EAR5/) | ERA5 request records and a sample GRIB file |
 | [`train/train.py`](train/train.py) | CNN–LSTM definition and training loop |
 | [`train/model/`](train/model/) | Saved latitude and longitude model checkpoints |
 | [`inference/`](inference/) | Inference script and notebook, trajectory CSV files, and example maps |
-| [`requirements.txt`](requirements.txt) | Original Linux environment export, retained as a reference |
+| [`requirements.txt`](requirements.txt) | Linux environment package reference |
 
 ## Getting Started
 
@@ -53,7 +53,7 @@ git clone --branch main https://github.com/Will1202/Typhoon-Trajectory-Predictio
 cd Typhoon-Trajectory-Prediction-Based-On-CNN-LSTM-model-main
 ```
 
-The historical environment used **Python 3.10** and **PyTorch 2.1**. The existing `requirements.txt` mixes Conda build records and pip packages, so it is not a pip requirements file. See the [environment setup](docs/RUN_GUIDE.md#environment-setup) before running the scripts.
+The recorded environment uses **Python 3.10** and **PyTorch 2.1**. The `requirements.txt` file is a Conda environment export; use the [environment setup guide](docs/RUN_GUIDE.md#environment-setup) to select and install the packages for your platform.
 
 With a compatible environment, the bundled processed data and checkpoints provide the starting point for the Carmen example:
 
@@ -64,7 +64,7 @@ python inference.py
 
 The script reads paths relative to `inference/` and writes trajectory CSV files and `Carmen.png`, replacing the bundled example outputs. See [inference and custom inputs](docs/RUN_GUIDE.md#inference-and-custom-inputs) for input requirements and checkpoint compatibility.
 
-For retraining, read the [training notes](docs/RUN_GUIDE.md#training) first. The original training script has known target-selection and evaluation issues that need to be addressed before using a new run as a benchmark.
+For training, see the [training workflow](docs/RUN_GUIDE.md#training) and [experiment configuration](docs/RUN_GUIDE.md#experiment-configuration).
 
 ## Data Sources
 
@@ -75,4 +75,4 @@ The preparation workflow is recorded in [`data_preprocess/data_preprocess.ipynb`
 
 ## License and Attribution
 
-The repository retains its original [MIT license](LICENSE) and copyright notice. Please acknowledge the original code and the CMA and Copernicus data sources when building on this work. Consult each data provider's terms for dataset reuse.
+Code is distributed under the [MIT license](LICENSE). Please retain the copyright notice and acknowledge the CMA and Copernicus data sources when building on this work. Consult each data provider's terms for dataset reuse.
